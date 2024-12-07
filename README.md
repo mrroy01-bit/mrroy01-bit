@@ -1,6 +1,14 @@
 # 👋 Hey there! I'm Ritik Kumar
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mrroy01-bit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <a href="https://github.com/mrroy01-bit?tab=followers">
+      <img src="https://img.shields.io/github/followers/mrroy01-bit?label=Followers&style=social" alt="GitHub followers" />
+    </a>
+  </p>
   <h3>A Passionate Full Stack Developer Crafting Digital Experiences 🚀</h3>
 </div>
 
