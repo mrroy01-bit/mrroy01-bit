@@ -78,7 +78,7 @@ I'm a dedicated full-stack developer who thrives on turning complex problems int
 <div align="center">
   <a href="mailto:ritikkumar2825@gmail.com">📧 Email</a> •
   <a href="https://github.com/mrroy01-bit">👨‍💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/ritik-kumar-0b3b97220/">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ritik-kumar-roy0211/">💼 LinkedIn</a>
 </div>
 
 ---
