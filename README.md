@@ -39,12 +39,21 @@ I'm a dedicated full-stack developer who thrives on turning complex problems int
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
 </div>
 
-## 📊 My GitHub Journey
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrroy01-bit&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrroy01-bit&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrroy01-bit&layout=compact&theme=tokyonight" alt="Top Languages" />
+  
+  ### 🏆 Profile Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=mrroy01-bit&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  
+  ### 🔥 Contribution Streak
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrroy01-bit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  ### 💻 Most Used Languages
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrroy01-bit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  
+  ### 📈 Contribution Graph
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrroy01-bit&theme=tokyonight" alt="Contribution Graph" />
 </div>
 
 ## 🤝 Let's Connect!
