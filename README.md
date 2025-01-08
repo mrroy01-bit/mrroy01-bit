@@ -9,69 +9,136 @@
       <img src="https://img.shields.io/github/followers/mrroy01-bit?label=Followers&style=social" alt="GitHub followers" />
     </a>
   </p>
-  <h3>A Passionate Full Stack Developer Crafting Digital Experiences 🚀</h3>
+  <h3>A Passionate Full Stack Developer Building Modern Web Solutions 🚀</h3>
 </div>
 
 ## 👨‍💻 About Me
 
-I'm a dedicated full-stack developer who thrives on turning complex problems into elegant solutions. With a strong foundation in both front-end and back-end technologies, I create seamless, user-centric applications that make a difference. My approach combines technical expertise with creative problem-solving to deliver robust and scalable solutions.
+I'm a dedicated full-stack developer with expertise in the MERN stack, passionate about creating impactful digital solutions. I specialize in building scalable web applications that combine robust functionality with exceptional user experiences. My technical proficiency spans both front-end and back-end development, allowing me to deliver comprehensive solutions that meet modern business needs.
 
 ### 💫 What I bring to the table:
-- 🎯 Clean, efficient, and maintainable code
-- 💡 Innovative solutions to complex problems
-- 🤝 Strong collaboration and communication skills
-- 📚 Continuous learner and tech enthusiast
-- ⚡ Quick learner with attention to detail
-- 🌟 Passionate about open source
+- 🎯 Clean, efficient, and maintainable code architecture
+- 💡 Creative solutions to complex technical challenges
+- 🤝 Strong team collaboration and technical leadership
+- 📚 Continuous learning and adaptation to new technologies
+- ⚡ Rapid problem-solving with attention to detail
+- 🌟 Active open-source contributor
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
 <div align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Development;Modern+Technologies;Clean+Code+Architecture" alt="Tech Stack" />
 </div>
 
-### Backend Development
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+<h3>🎨 Frontend Development <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"></h3>
+
 <div align="center">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
+  
+  ![React](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Tailwind](https://img.shields.io/badge/Tailwind-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 </div>
 
-### Database & Cloud
+</td>
+<td align="center" width="50%">
+
+<h3>💻 Backend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h3>
+
 <div align="center">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-404D59?style=for-the-badge&logo=express&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-777BB4?style=for-the-badge&logo=php&logoColor=white)
 </div>
 
-### Tools & Design
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<h3>🗄️ Database & Cloud <img src="https://media.giphy.com/media/c5nCVpHxGmqxW/giphy.gif" width="30px"></h3>
+
 <div align="center">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
+  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+</div>
+
+</td>
+<td align="center">
+
+<h3>🛠️ Tools & Design <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30px"></h3>
+
+<div align="center">
+  
+  ![Figma](https://img.shields.io/badge/Figma-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
 </div>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  ### 🏆 Profile Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=mrroy01-bit&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-  
-  ### 🔥 Contribution Streak
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrroy01-bit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  ### 💻 Most Used Languages
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrroy01-bit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  
-  ### 📈 Contribution Graph
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrroy01-bit&theme=tokyonight" alt="Contribution Graph" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=My+GitHub+Contributions;Active+Open+Source+Developer;Always+Learning+%26+Growing" alt="GitHub Stats" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrroy01-bit&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🏆 Profile Statistics</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=mrroy01-bit&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=FFFFFF" alt="GitHub Stats" />
+        <h3>💻 Most Used Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrroy01-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
+      </td>
+      <td width="50%" align="center">
+        <h3>🔥 Contribution Streak</h3>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrroy01-bit&theme=tokyonight&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2F81F7&sideLabels=2F81F7&dates=FFFFFF" alt="GitHub Streak" />
+        <h3>📈 Contribution Graph</h3>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrroy01-bit&theme=github_dark" alt="Contribution Graph" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrroy01-bit&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF&area=true" alt="Activity Graph" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
+</div>
+
+## 🎯 Current Focus
+
+- 🔭 Working on advanced MERN stack applications
+- 🌱 Learning cloud architecture and microservices
+- 👯 Open to collaborate on innovative web projects
+- 💬 Ask me about Full Stack Development, React, Node.js
 
 ## 🤝 Let's Connect!
 
