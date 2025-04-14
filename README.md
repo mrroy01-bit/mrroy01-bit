@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there, I'm Ritik Kumar
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%7C+Tech+Innovator;MERN+Stack+Expert+%7C+Cloud+Solutions;UI%2FUX+Enthusiast+%7C+Problem+Solver;Building+the+Future+of+Web+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+%26+Mobile+Developer;MERN+Stack+%26+React+Native+Expert;UI%2FUX+Enthusiast+%7C+Problem+Solver;Building+Web+%26+Mobile+Experiences" alt="Typing SVG" />
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mrroy01-bit&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -17,17 +17,19 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"/>
 
-I'm a passionate Full Stack Developer who transforms ideas into robust digital solutions. With expertise in the MERN stack and a keen eye for design, I specialize in:
+I'm a passionate Full Stack & Mobile Developer who transforms ideas into robust digital solutions. With expertise in the MERN stack, React Native with Expo, and a keen eye for design, I specialize in:
 
-- 🎯 Building scalable, high-performance web applications
+- 🎯 Building scalable web and mobile applications
 - 💡 Architecting clean, maintainable code solutions
-- 🌐 Creating seamless user experiences
+- 🌐 Creating seamless cross-platform experiences
+- 📱 Developing native-like mobile apps using Expo
 - 🔧 Implementing modern development practices
-- 📱 Developing responsive, mobile-first applications
+- 🚀 Optimizing app performance and user experience
 
 I believe in the power of technology to solve real-world problems and am constantly exploring new ways to push the boundaries of what's possible in web development.
 
 ### 💫 What I bring to the table:
+
 - 🎯 Clean, efficient, and maintainable code architecture
 - 💡 Creative solutions to complex technical challenges
 - 🤝 Strong team collaboration and technical leadership
@@ -74,7 +76,20 @@ I believe in the power of technology to solve real-world problems and am constan
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" width="50%">
+
+<h3>📱 Mobile Development <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="25px"></h3>
+
+<div align="center">
+  
+  ![React Native](https://img.shields.io/badge/React_Native-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  ![Expo](https://img.shields.io/badge/Expo-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-000020?style=for-the-badge&logo=expo&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![iOS](https://img.shields.io/badge/iOS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-000000?style=for-the-badge&logo=apple&logoColor=white)
+</div>
+
+</td>
+<td align="center" width="50%">
 
 <h3>🗄️ Database & Cloud <img src="https://media.giphy.com/media/c5nCVpHxGmqxW/giphy.gif" width="30px"></h3>
 
@@ -87,6 +102,9 @@ I believe in the power of technology to solve real-world problems and am constan
 </div>
 
 </td>
+</tr>
+
+<tr>
 <td align="center">
 
 <h3>🛠️ Tools & Design <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30px"></h3>
@@ -146,10 +164,11 @@ I believe in the power of technology to solve real-world problems and am constan
 
 ## 🎯 Current Focus
 
-- 🔭 Working on advanced MERN stack applications
-- 🌱 Learning cloud architecture and microservices
-- 👯 Open to collaborate on innovative web projects
-- 💬 Ask me about Full Stack Development, React, Node.js
+- 🔭 Working on advanced MERN stack and React Native applications
+- 🌱 Learning advanced Expo features and mobile app optimization
+- 📱 Developing cross-platform mobile solutions
+- 👯 Open to collaborate on innovative web and mobile projects
+- 💬 Ask me about Full Stack Development, React Native, Expo
 
 ## 🤝 Let's Connect!
 
@@ -160,6 +179,7 @@ I believe in the power of technology to solve real-world problems and am constan
 </div>
 
 ---
+
 <div align="center">
   <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </div>
