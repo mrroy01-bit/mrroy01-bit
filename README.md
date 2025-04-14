@@ -1,20 +1,31 @@
-# 👋 Hey there! I'm Ritik Kumar
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there, I'm Ritik Kumar
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%7C+Tech+Innovator;MERN+Stack+Expert+%7C+Cloud+Solutions;UI%2FUX+Enthusiast+%7C+Problem+Solver;Building+the+Future+of+Web+Development" alt="Typing SVG" />
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mrroy01-bit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=mrroy01-bit&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
     <a href="https://github.com/mrroy01-bit?tab=followers">
-      <img src="https://img.shields.io/github/followers/mrroy01-bit?label=Followers&style=social" alt="GitHub followers" />
+      <img src="https://img.shields.io/github/followers/mrroy01-bit?style=for-the-badge&logo=github&labelColor=0D1117&color=2F81F7" alt="GitHub followers" />
     </a>
+    <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=2F81F7" alt="Open Source Love" />
   </p>
-  <h3>A Passionate Full Stack Developer Building Modern Web Solutions 🚀</h3>
+  <h3>🚀 Crafting Digital Experiences Through Code</h3>
 </div>
 
 ## 👨‍💻 About Me
 
-I'm a dedicated full-stack developer with expertise in the MERN stack, passionate about creating impactful digital solutions. I specialize in building scalable web applications that combine robust functionality with exceptional user experiences. My technical proficiency spans both front-end and back-end development, allowing me to deliver comprehensive solutions that meet modern business needs.
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"/>
+
+I'm a passionate Full Stack Developer who transforms ideas into robust digital solutions. With expertise in the MERN stack and a keen eye for design, I specialize in:
+
+- 🎯 Building scalable, high-performance web applications
+- 💡 Architecting clean, maintainable code solutions
+- 🌐 Creating seamless user experiences
+- 🔧 Implementing modern development practices
+- 📱 Developing responsive, mobile-first applications
+
+I believe in the power of technology to solve real-world problems and am constantly exploring new ways to push the boundaries of what's possible in web development.
 
 ### 💫 What I bring to the table:
 - 🎯 Clean, efficient, and maintainable code architecture
