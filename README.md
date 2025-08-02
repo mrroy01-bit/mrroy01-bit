@@ -28,7 +28,7 @@
 
 ### 🚀 **Who Am I?**
 
-I'm a passionate **Full Stack & Mobile Developer** who transforms ideas into robust digital solutions. With expertise in the **MERN stack**, **React Native with Expo**, and emerging technologies like **AI/ML integration**, I specialize in:
+I'm a passionate **Full Stack & Mobile Developer** who transforms ideas into robust digital solutions. With expertise in the **MERN stack**, **Expo**, and emerging technologies like **AI/ML integration**, I specialize in:
 
 </td>
 <td width="40%">
