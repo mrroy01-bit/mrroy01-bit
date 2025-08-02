@@ -181,7 +181,7 @@ I'm a passionate **Full Stack & Mobile Developer** who transforms ideas into rob
 <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35px" alt="Tools GIF">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,github,jest,postman&theme=dark" alt="DevOps Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="DevOps Tech Stack" />
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=F05032&center=true&vCenter=true&width=400&lines=CI%2FCD+Pipelines;Containerization;Testing+%26+Deployment" alt="DevOps Animation" />
 </div>
@@ -193,7 +193,7 @@ I'm a passionate **Full Stack & Mobile Developer** who transforms ideas into rob
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35px" alt="Design GIF">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,tensorflow,opencv,prisma&theme=dark" alt="Design AI Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,tensorflow,opencv&theme=dark" alt="Design AI Tech Stack" />
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=F24E1E&center=true&vCenter=true&width=400&lines=UI%2FUX+Design;Machine+Learning;AI+Integration" alt="Design AI Animation" />
 </div>
