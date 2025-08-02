@@ -127,7 +127,7 @@ I'm a passionate **Full Stack & Mobile Developer** who transforms ideas into rob
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" alt="Frontend GIF">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,tailwind,bootstrap,sass&theme=dark" alt="Frontend Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,bootstrap,sass&theme=dark" alt="Frontend Tech Stack" />
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=61DAFB&center=true&vCenter=true&width=400&lines=Building+Modern+User+Interfaces;Responsive+%26+Interactive+Designs;Component-Based+Architecture" alt="Frontend Animation" />
 </div>
@@ -139,7 +139,7 @@ I'm a passionate **Full Stack & Mobile Developer** who transforms ideas into rob
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" alt="Backend GIF">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,php,graphql&theme=dark" alt="Backend Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php&theme=dark" alt="Backend Tech Stack" />
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=43853D&center=true&vCenter=true&width=400&lines=Scalable+Server+Solutions;RESTful+%26+GraphQL+APIs;Microservices+Architecture" alt="Backend Animation" />
 </div>
@@ -154,7 +154,7 @@ I'm a passionate **Full Stack & Mobile Developer** who transforms ideas into rob
 <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="30px" alt="Mobile GIF">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,expo,flutter,android,apple&theme=dark" alt="Mobile Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,expo,flutter,android&theme=dark" alt="Mobile Tech Stack" />
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=61DAFB&center=true&vCenter=true&width=400&lines=Cross-Platform+Solutions;Native+Performance;App+Store+Deployment" alt="Mobile Animation" />
 </div>
@@ -166,7 +166,7 @@ I'm a passionate **Full Stack & Mobile Developer** who transforms ideas into rob
 <img src="https://media.giphy.com/media/c5nCVpHxGmqxW/giphy.gif" width="35px" alt="Database GIF">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,aws,supabase&theme=dark" alt="Database Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase&theme=dark" alt="Database Tech Stack" />
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=4EA94B&center=true&vCenter=true&width=400&lines=Data+Management+Solutions;Cloud+Infrastructure;Serverless+Architecture" alt="Database Animation" />
 </div>
