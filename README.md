@@ -116,7 +116,7 @@ I'm a passionate **Full Stack & Mobile Developer** who transforms ideas into rob
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,python,mongodb,aws&theme=dark" alt="Main Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,python,mongodb&theme=dark" alt="Main Tech Stack" />
 </div>
 
 <table align="center">
