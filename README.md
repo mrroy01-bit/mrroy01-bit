@@ -18,9 +18,30 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=800&lines=Passionate+Full+Stack+%26+Mobile+Developer;Transforming+Ideas+into+Digital+Solutions;MERN+Stack+%7C+React+Native+%7C+AI%2FML+Expert;Building+Scalable+%26+High-Performance+Apps" alt="About Me Animation" />
+</div>
 
-I'm a passionate Full Stack & Mobile Developer who transforms ideas into robust digital solutions. With expertise in the MERN stack, React Native with Expo, and emerging technologies like AI/ML integration, I specialize in:
+<table>
+<tr>
+<td width="60%">
+
+### 🚀 **Who Am I?**
+
+I'm a passionate **Full Stack & Mobile Developer** who transforms ideas into robust digital solutions. With expertise in the **MERN stack**, **React Native with Expo**, and emerging technologies like **AI/ML integration**, I specialize in:
+
+</td>
+<td width="40%">
+
+<div align="center">
+  <img alt="Coding Animation" width="350" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=300&lines=3%2B+Years+Experience;50%2B+Projects+Delivered;Always+Learning+New+Tech" alt="Stats Animation" />
+</div>
+
+</td>
+</tr>
+</table>
 
 - 🎯 Building scalable web and mobile applications with modern architectures
 - 💡 Architecting clean, maintainable code solutions with best practices
@@ -31,57 +52,96 @@ I'm a passionate Full Stack & Mobile Developer who transforms ideas into robust 
 - 🤖 Integrating AI/ML capabilities into web and mobile applications
 - ☁️ Deploying and managing cloud-based solutions (AWS, Firebase)
 
-I believe in the power of technology to solve real-world problems and am constantly exploring new ways to push the boundaries of what's possible in modern software development.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=I+believe+in+the+power+of+technology+to+solve+real-world+problems;Constantly+exploring+new+ways+to+push+boundaries;Modern+software+development+is+my+passion!" alt="Philosophy Animation" />
+</div>
 
 ### 💫 What I bring to the table
 
-- 🎯 Clean, efficient, and maintainable code architecture
-- 💡 Creative solutions to complex technical challenges
-- 🤝 Strong team collaboration and technical leadership
-- 📚 Continuous learning and adaptation to new technologies
-- ⚡ Rapid problem-solving with attention to detail
-- 🌟 Active open-source contributor and community member
-- 🔍 Strong focus on user experience and accessibility
-- 📊 Data-driven development approach with analytics integration
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px" alt="Code GIF">
+        <br><strong>Clean Architecture</strong>
+        <br><sub>Efficient & maintainable code</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50px" alt="Innovation GIF">
+        <br><strong>Creative Solutions</strong>
+        <br><sub>Complex technical challenges</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="50px" alt="Team GIF">
+        <br><strong>Team Leadership</strong>
+        <br><sub>Collaboration & guidance</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="50px" alt="Learning GIF">
+        <br><strong>Continuous Learning</strong>
+        <br><sub>New technologies & trends</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50px" alt="Speed GIF">
+        <br><strong>Rapid Problem-Solving</strong>
+        <br><sub>Attention to detail</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50px" alt="Open Source GIF">
+        <br><strong>Open Source</strong>
+        <br><sub>Community contributor</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50px" alt="UX GIF">
+        <br><strong>User Experience</strong>
+        <br><sub>Accessibility focused</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/l378bu6ZYmzS6nBrW/giphy.gif" width="50px" alt="Data GIF">
+        <br><strong>Data-Driven</strong>
+        <br><sub>Analytics integration</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Development;Modern+Technologies;Clean+Code+Architecture" alt="Tech Stack" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=My%20Technology%20Arsenal&fontSize=24&fontColor=fff&animation=fadeIn" alt="Tech Stack Header" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Development+Expert;Modern+Technologies+%26+Frameworks;Clean+Code+Architecture+Enthusiast;Performance+%26+Scalability+Focused" alt="Tech Stack Animation" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,python,mongodb,aws&theme=dark" alt="Main Tech Stack" />
 </div>
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
 
-<h3>🎨 Frontend Development <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" alt="Frontend GIF"></h3>
+<h3>🎨 Frontend Development</h3>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" alt="Frontend GIF">
 
 <div align="center">
-  
-  ![React](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Tailwind](https://img.shields.io/badge/Tailwind-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![SASS](https://img.shields.io/badge/SASS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,tailwind,bootstrap,sass&theme=dark" alt="Frontend Tech Stack" />
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=61DAFB&center=true&vCenter=true&width=400&lines=Building+Modern+User+Interfaces;Responsive+%26+Interactive+Designs;Component-Based+Architecture" alt="Frontend Animation" />
 </div>
 
 </td>
 <td align="center" width="50%">
 
-<h3>💻 Backend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" alt="Backend GIF"></h3>
+<h3>💻 Backend Development</h3>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" alt="Backend GIF">
 
 <div align="center">
-  
-  ![Node.js](https://img.shields.io/badge/Node.js-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-404D59?style=for-the-badge&logo=express&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/NestJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,php,graphql&theme=dark" alt="Backend Tech Stack" />
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=43853D&center=true&vCenter=true&width=400&lines=Scalable+Server+Solutions;RESTful+%26+GraphQL+APIs;Microservices+Architecture" alt="Backend Animation" />
 </div>
 
 </td>
@@ -90,31 +150,25 @@ I believe in the power of technology to solve real-world problems and am constan
 <tr>
 <td align="center" width="50%">
 
-<h3>📱 Mobile Development <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="25px" alt="Mobile GIF"></h3>
+<h3>📱 Mobile Development</h3>
+<img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="30px" alt="Mobile GIF">
 
 <div align="center">
-  
-  ![React Native](https://img.shields.io/badge/React_Native-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-  ![Expo](https://img.shields.io/badge/Expo-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-000020?style=for-the-badge&logo=expo&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-  ![iOS](https://img.shields.io/badge/iOS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-000000?style=for-the-badge&logo=apple&logoColor=white)
-  ![PWA](https://img.shields.io/badge/PWA-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=react,expo,flutter,android,apple&theme=dark" alt="Mobile Tech Stack" />
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=61DAFB&center=true&vCenter=true&width=400&lines=Cross-Platform+Solutions;Native+Performance;App+Store+Deployment" alt="Mobile Animation" />
 </div>
 
 </td>
 <td align="center" width="50%">
 
-<h3>🗄️ Database & Cloud <img src="https://media.giphy.com/media/c5nCVpHxGmqxW/giphy.gif" width="30px" alt="Database GIF"></h3>
+<h3>🗄️ Database & Cloud</h3>
+<img src="https://media.giphy.com/media/c5nCVpHxGmqxW/giphy.gif" width="35px" alt="Database GIF">
 
 <div align="center">
-  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,aws,supabase&theme=dark" alt="Database Tech Stack" />
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=4EA94B&center=true&vCenter=true&width=400&lines=Data+Management+Solutions;Cloud+Infrastructure;Serverless+Architecture" alt="Database Animation" />
 </div>
 
 </td>
@@ -123,31 +177,25 @@ I believe in the power of technology to solve real-world problems and am constan
 <tr>
 <td align="center">
 
-<h3>🛠️ Tools & DevOps <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30px" alt="Tools GIF"></h3>
+<h3>🛠️ DevOps & Tools</h3>
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35px" alt="Tools GIF">
 
 <div align="center">
-  
-  ![Git](https://img.shields.io/badge/Git-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-  ![Jest](https://img.shields.io/badge/Jest-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-C21325?style=for-the-badge&logo=jest&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,github,jest,postman&theme=dark" alt="DevOps Tech Stack" />
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=F05032&center=true&vCenter=true&width=400&lines=CI%2FCD+Pipelines;Containerization;Testing+%26+Deployment" alt="DevOps Animation" />
 </div>
 
 </td>
 <td align="center">
 
-<h3>🎨 Design & AI/ML <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30px" alt="Design GIF"></h3>
+<h3>🎨 Design & AI/ML</h3>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35px" alt="Design GIF">
 
 <div align="center">
-  
-  ![Figma](https://img.shields.io/badge/Figma-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![Adobe XD](https://img.shields.io/badge/Adobe_XD-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![OpenAI](https://img.shields.io/badge/OpenAI-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-412991?style=for-the-badge&logo=openai&logoColor=white)
-  ![Prisma](https://img.shields.io/badge/Prisma-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-  ![Socket.io](https://img.shields.io/badge/Socket.io-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=figma,ps,tensorflow,opencv,prisma&theme=dark" alt="Design AI Tech Stack" />
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=F24E1E&center=true&vCenter=true&width=400&lines=UI%2FUX+Design;Machine+Learning;AI+Integration" alt="Design AI Animation" />
 </div>
 
 </td>
@@ -155,7 +203,9 @@ I believe in the power of technology to solve real-world problems and am constan
 </table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" alt="Tech Stack Footer" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Ready+to+Build+Amazing+Things+Together;Let's+Turn+Ideas+into+Reality!" alt="Ready to Build" />
 </div>
 
 <div align="center">
@@ -189,11 +239,6 @@ I believe in the power of technology to solve real-world problems and am constan
 - **Impact**: 40% increase in conversion rates
 - **Users**: 5,000+ daily active users
 
-**📱 Social Media App**
-- **Tech**: React Native, Firebase, Redux
-- **Features**: Real-time chat, story sharing
-- **Impact**: 50K+ downloads in first month
-- **Rating**: 4.8/5 on app stores
 
 </td>
 <td width="50%">
@@ -204,11 +249,6 @@ I believe in the power of technology to solve real-world problems and am constan
 - **Impact**: Reduced wait times by 30%
 - **Security**: HIPAA compliant implementation
 
-**🎮 Gaming Platform**
-- **Tech**: Vue.js, Socket.io, WebGL
-- **Features**: Multiplayer support, real-time gameplay
-- **Impact**: 100K+ registered players
-- **Performance**: Sub-50ms latency
 
 </td>
 </tr>
