@@ -1,118 +1,101 @@
 <h1 align="center">Hi 👋, I'm Ritik Kumar</h1>
-<h3 align="center">Full Stack & Mobile App Developer | React • Node • Expo • MongoDB</h3>
+<h3 align="center">Full Stack & Mobile Developer | MERN • Expo • AI</h3>
 
 <p align="center">
-  🚀 Building scalable web apps, dashboards & mobile applications<br/>
-  💡 Turning ideas into real-world digital products
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;React+Native+%7C+Expo+Apps;Building+Real+World+Dashboards;AI+Powered+Applications" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-- 💻 Full Stack Developer (React.js, Next.js, Node.js, Express)
-- 📱 Mobile App Developer (React Native, Expo, Expo Router)
-- 🗄 Database: MongoDB & Firebase
-- ⚡ Building student platforms, dashboards & AI tools
-- 🎯 Goal: Build high-performance apps used by thousands
+- 💻 Building scalable web & mobile apps
+- 📱 Cross-platform apps with React Native & Expo
+- 🧠 AI integration into production apps
+- ⚡ Experience in Student Dashboards & Exam Systems
+- 🎯 Focused on performance & clean architecture
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
 ### 🎨 Frontend
-- React.js
-- Next.js
-- JavaScript
-- Tailwind CSS
+![React](https://img.shields.io/badge/React-0A0C10?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0A0C10?style=for-the-badge&logo=nextdotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0C10?style=for-the-badge&logo=javascript)
+![Tailwind](https://img.shields.io/badge/Tailwind-0A0C10?style=for-the-badge&logo=tailwindcss)
 
 ### ⚙️ Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
+![Node.js](https://img.shields.io/badge/Node.js-0A0C10?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-0A0C10?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0C10?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-0A0C10?style=for-the-badge&logo=firebase)
 
 ### 📱 Mobile
-- React Native
-- Expo
-- Expo Router
-
-### 🗄 Database & Cloud
-- MongoDB
-- Firebase
-- Netlify
-- Vercel
+![React Native](https://img.shields.io/badge/React_Native-0A0C10?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-0A0C10?style=for-the-badge&logo=expo)
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-## 🎓 Student Learning & Exam Platform  
-🔗 Live: https://decent-classes.netlify.app/
-
-Complete education system with:
+### 🎓 Student Learning & Exam Platform
+🔗 https://decent-classes.netlify.app/
 
 - Student Dashboard  
 - Admin Dashboard  
 - Online Exam Screen  
-- Result Analysis  
-- Course & Class Management  
+- Result Analytics  
 - Secure Authentication  
 
-**Tech Used:**  
-React.js • Node.js • Express • MongoDB • Firebase  
+**Stack:** React • Node • MongoDB • Firebase
 
 ---
 
-## 🏃 Vadodara Marathon Website  
-🔗 Live: https://vadodaramarathon.netlify.app/
+### 🏃 Vadodara Marathon Website
+🔗 https://vadodaramarathon.netlify.app/
 
-Modern marathon event platform with:
-
-- Event Landing Page  
+- Modern Landing UI  
 - Registration Section  
-- Responsive UI  
-- Optimized Performance  
+- Responsive Design  
+- Performance Optimized  
 
-**Tech Used:**  
-React.js • Next.js • JavaScript • Netlify  
-
----
-
-## 📱 Mobile Applications (Expo)
-
-Built multiple production-ready apps:
-
-- Music Streaming App  
-- Education App  
-- AI-based Tools  
-- Dashboard Apps  
-
-Features include:
-
-- API Integration  
-- Real-time Data  
-- Authentication  
-- APK Build & Deployment  
+**Stack:** React • Next.js • JavaScript
 
 ---
 
-## 📊 Developer Stats
+## 📊 GitHub Stats
 
-- 🚀 50+ Projects Built  
-- 📱 Multiple Mobile Apps  
-- 🌐 Full Stack Production Apps  
-- 🔥 Continuous Learning & Building  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrroy01-bit&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrroy01-bit&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrroy01-bit&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrroy01-bit/mrroy01-bit/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 📬 Connect With Me
 
-- GitHub: https://github.com/mrroy01-bit  
-- LinkedIn: https://linkedin.com/in/ritik-kumar-roy0211  
+[![GitHub](https://img.shields.io/badge/GitHub-0A0C10?style=for-the-badge&logo=github)](https://github.com/mrroy01-bit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0C10?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ritik-kumar-roy0211)
 
 ---
 
 <p align="center">
-  ⚡ “Code. Build. Improve. Repeat.”
+  ⚡ Code. Build. Improve. Repeat.
 </p>
