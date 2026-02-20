@@ -1,369 +1,585 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there, I'm Ritik Kumar
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=fff&animation=fadeIn" />
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+%26+Mobile+Developer;MERN+Stack+%26+React+Native+Expert;AI%2FML+Enthusiast+%7C+Problem+Solver;Building+Next-Gen+Digital+Experiences;Clean+Code+Architect+%26+Performance+Optimizer" alt="Typing SVG" />
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mrroy01-bit&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-    <a href="https://github.com/mrroy01-bit?tab=followers">
-      <img src="https://img.shields.io/github/followers/mrroy01-bit?style=for-the-badge&logo=github&labelColor=0D1117&color=2F81F7" alt="GitHub followers" />
-    </a>
-    <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=2F81F7" alt="Open Source Love" />
-    <img src="https://img.shields.io/badge/Years%20of%20Experience-3%2B-blue?style=for-the-badge&logo=code&logoColor=white&labelColor=0D1117&color=2F81F7" alt="Experience" />
-  </p>
-  <h3>🚀 Crafting Digital Experiences Through Code | Building Tomorrow's Solutions Today</h3>
-</div>
-
-## 👨‍💻 About Me
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=800&lines=Passionate+Full+Stack+%26+Mobile+Developer;Transforming+Ideas+into+Digital+Solutions;MERN+Stack+%7C+React+Native+%7C+AI%2FML+Expert;Building+Scalable+%26+High-Performance+Apps" alt="About Me Animation" />
-</div>
-
-<table>
-<tr>
-<td width="60%">
-
-### 🚀 **Who Am I?**
-
-I'm a passionate **Full Stack & Mobile Developer** who transforms ideas into robust digital solutions. With expertise in the **MERN stack**, **Expo**, and emerging technologies like **AI/ML integration**, I specialize in:
-
-</td>
-<td width="40%">
-
-<div align="center">
-  <img alt="Coding Animation" width="350" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=300&lines=3%2B+Years+Experience;50%2B+Projects+Delivered;Always+Learning+New+Tech" alt="Stats Animation" />
-</div>
-
-</td>
-</tr>
-</table>
-
-- 🎯 Building scalable web and mobile applications with modern architectures
-- 💡 Architecting clean, maintainable code solutions with best practices
-- 🌐 Creating seamless cross-platform experiences with responsive design
-- 📱 Developing native-like mobile apps using Expo and React Native
-- 🔧 Implementing modern development practices (CI/CD, Testing, Docker)
-- 🚀 Optimizing app performance and user experience with latest tools
-- 🤖 Integrating AI/ML capabilities into web and mobile applications
-- ☁️ Deploying and managing cloud-based solutions (AWS, Firebase)
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=I+believe+in+the+power+of+technology+to+solve+real-world+problems;Constantly+exploring+new+ways+to+push+boundaries;Modern+software+development+is+my+passion!" alt="Philosophy Animation" />
-</div>
-
-### 💫 What I bring to the table
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px" alt="Code GIF">
-        <br><strong>Clean Architecture</strong>
-        <br><sub>Efficient & maintainable code</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50px" alt="Innovation GIF">
-        <br><strong>Creative Solutions</strong>
-        <br><sub>Complex technical challenges</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="50px" alt="Team GIF">
-        <br><strong>Team Leadership</strong>
-        <br><sub>Collaboration & guidance</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="50px" alt="Learning GIF">
-        <br><strong>Continuous Learning</strong>
-        <br><sub>New technologies & trends</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50px" alt="Speed GIF">
-        <br><strong>Rapid Problem-Solving</strong>
-        <br><sub>Attention to detail</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50px" alt="Open Source GIF">
-        <br><strong>Open Source</strong>
-        <br><sub>Community contributor</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50px" alt="UX GIF">
-        <br><strong>User Experience</strong>
-        <br><sub>Accessibility focused</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/l378bu6ZYmzS6nBrW/giphy.gif" width="50px" alt="Data GIF">
-        <br><strong>Data-Driven</strong>
-        <br><sub>Analytics integration</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=My%20Technology%20Arsenal&fontSize=24&fontColor=fff&animation=fadeIn" alt="Tech Stack Header" />
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Development+Expert;Modern+Technologies+%26+Frameworks;Clean+Code+Architecture+Enthusiast;Performance+%26+Scalability+Focused" alt="Tech Stack Animation" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,python,mongodb&theme=dark" alt="Main Tech Stack" />
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-<h3>🎨 Frontend Development</h3>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" alt="Frontend GIF">
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,bootstrap,sass&theme=dark" alt="Frontend Tech Stack" />
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=61DAFB&center=true&vCenter=true&width=400&lines=Building+Modern+User+Interfaces;Responsive+%26+Interactive+Designs;Component-Based+Architecture" alt="Frontend Animation" />
-</div>
-
-</td>
-<td align="center" width="50%">
-
-<h3>💻 Backend Development</h3>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" alt="Backend GIF">
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php&theme=dark" alt="Backend Tech Stack" />
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=43853D&center=true&vCenter=true&width=400&lines=Scalable+Server+Solutions;RESTful+%26+GraphQL+APIs;Microservices+Architecture" alt="Backend Animation" />
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-<h3>📱 Mobile Development</h3>
-<img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="30px" alt="Mobile GIF">
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,expo,flutter,android&theme=dark" alt="Mobile Tech Stack" />
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=61DAFB&center=true&vCenter=true&width=400&lines=Cross-Platform+Solutions;Native+Performance;App+Store+Deployment" alt="Mobile Animation" />
-</div>
-
-</td>
-<td align="center" width="50%">
-
-<h3>🗄️ Database & Cloud</h3>
-<img src="https://media.giphy.com/media/c5nCVpHxGmqxW/giphy.gif" width="35px" alt="Database GIF">
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase&theme=dark" alt="Database Tech Stack" />
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=4EA94B&center=true&vCenter=true&width=400&lines=Data+Management+Solutions;Cloud+Infrastructure;Serverless+Architecture" alt="Database Animation" />
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<h3>🛠️ DevOps & Tools</h3>
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35px" alt="Tools GIF">
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="DevOps Tech Stack" />
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=F05032&center=true&vCenter=true&width=400&lines=CI%2FCD+Pipelines;Containerization;Testing+%26+Deployment" alt="DevOps Animation" />
-</div>
-
-</td>
-<td align="center">
-
-<h3>🎨 Design & AI/ML</h3>
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35px" alt="Design GIF">
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,tensorflow,opencv&theme=dark" alt="Design AI Tech Stack" />
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=F24E1E&center=true&vCenter=true&width=400&lines=UI%2FUX+Design;Machine+Learning;AI+Integration" alt="Design AI Animation" />
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" alt="Tech Stack Footer" />
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Ready+to+Build+Amazing+Things+Together;Let's+Turn+Ideas+into+Reality!" alt="Ready to Build" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
-</div>
-
-## 🚀 Featured Projects & Achievements
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Innovative+Solutions;Real-World+Impact;Open+Source+Contributions" alt="Projects" />
-</div>
-
-### 🏆 Key Achievements
-
-- 🌟 **50+** Successful projects delivered across web and mobile platforms
-- 🚀 **Performance Optimization**: Improved app load times by up to 60%
-- 👥 **Team Leadership**: Led development teams of 5+ developers
-- 📱 **Cross-Platform Expertise**: Built apps serving 10K+ active users
-- 🔧 **Open Source**: Contributed to 20+ open-source projects
-- 🎯 **Quality Focus**: Maintained 95%+ code coverage in testing
-
-### 💼 Project Highlights
-
-<table>
-<tr>
-<td width="50%">
-
-**🌐 E-Commerce Platform**
-- **Tech**: React, Node.js, MongoDB, Stripe
-- **Features**: Real-time inventory, AI recommendations
-- **Impact**: 40% increase in conversion rates
-- **Users**: 5,000+ daily active users
-
-
-</td>
-<td width="50%">
-
-**🏥 Healthcare Management System**
-- **Tech**: Next.js, TypeScript, PostgreSQL
-- **Features**: Patient portal, appointment scheduling
-- **Impact**: Reduced wait times by 30%
-- **Security**: HIPAA compliant implementation
-
-
-</td>
-</tr>
-</table>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=My+GitHub+Contributions;Active+Open+Source+Developer;Always+Learning+%26+Growing" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrroy01-bit&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>🏆 Profile Statistics</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=mrroy01-bit&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=FFFFFF" alt="GitHub Stats" />
-        <h3>💻 Most Used Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrroy01-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
-      </td>
-      <td width="50%" align="center">
-        <h3>🔥 Contribution Streak</h3>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrroy01-bit&theme=tokyonight&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2F81F7&sideLabels=2F81F7&dates=FFFFFF" alt="GitHub Streak" />
-        <h3>📈 Contribution Graph</h3>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrroy01-bit&theme=github_dark" alt="Contribution Graph" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrroy01-bit&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF&area=true" alt="Activity Graph" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
-</div>
-
-## 🎯 Current Focus & Learning Journey
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Always+Learning;Building+Tomorrow's+Tech;Innovation+Driven" alt="Current Focus" />
-</div>
-
-### 🔭 Currently Working On
-
-- 🚀 **Next.js 14** with App Router and Server Components for enterprise applications
-- 🤖 **AI Integration** - Building intelligent features using OpenAI API and Langchain
-- 📱 **Expo Router** - Modern navigation patterns for React Native applications  
-- ⚡ **Performance Optimization** - Advanced caching strategies and lazy loading
-- 🏗️ **Microservices Architecture** - Scalable backend systems with Docker & Kubernetes
-
-### 🌱 Learning & Exploring
-
-- 🧠 **Machine Learning** - TensorFlow.js for client-side AI applications
-- � **Web3 & Blockchain** - Smart contract development with Solidity
-- 🎨 **Advanced Animation** - Framer Motion and React Spring for stunning UIs
-- ☁️ **Cloud Native** - AWS Lambda, Serverless Framework, and CDN optimization
-- 🔒 **Cybersecurity** - Implementing zero-trust security models
-
-### 🤝 Open to Collaborate On
-
-- 💡 Innovative startups seeking technical co-founders
-- 🌍 Open-source projects with social impact
-- 🚀 Cutting-edge web and mobile applications
-- 📚 Educational platforms and developer tools
-- 🏥 Healthcare technology solutions
-
-### 💬 Ask Me About
-
-- Full Stack Development (MERN, JAMstack, Serverless)
-- React Native & Expo development best practices
-- Modern JavaScript/TypeScript patterns and architecture
-- Database design and optimization strategies
-- DevOps, CI/CD, and deployment automation
-- Performance optimization and scalability solutions
-
-## 🤝 Let's Connect and Build Something Amazing
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Let's+Collaborate;Always+Open+to+Chat;Building+Networks" alt="Connect" />
-</div>
-
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-ritikkumar2825%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritikkumar2825@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-mrroy01--bit-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrroy01-bit)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ritik--kumar--roy0211-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-kumar-roy0211/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-  
-</div>
-
-### � Get In Touch
-
-- �💼 **Business Inquiries**: Ready for freelance projects and full-time opportunities
-- 🤝 **Collaboration**: Open to partnerships on innovative projects  
-- 🎓 **Mentoring**: Happy to guide aspiring developers
-- ☕ **Coffee Chat**: Always up for discussing technology and ideas
-- 📝 **Writing**: Interested in tech blogging and content creation
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=fff&animation=fadeIn" />
-</div>
-
-<div align="center">
-  <i>💡 "The best code is not just functional, but tells a story of innovation and craftsmanship."</i>
-  <br><br>
-  <b>Made with ❤️ and lots of ☕ by Ritik Kumar</b>
-  <br>
-  <i>⭐ Star this repository if you found it interesting!</i>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ritik Kumar — GitHub README Preview</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=Syne:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #0a0c0f;
+    --surface: #111418;
+    --border: #1e2329;
+    --border-bright: #2d333b;
+    --text: #cdd9e5;
+    --muted: #768390;
+    --accent: #58a6ff;
+    --accent2: #3fb950;
+    --accent3: #e3b341;
+    --accent4: #ff7b72;
+    --white: #f0f6fc;
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'DM Mono', monospace;
+    font-size: 14px;
+    line-height: 1.7;
+    min-height: 100vh;
+    padding: 48px 24px;
+  }
+
+  .readme {
+    max-width: 860px;
+    margin: 0 auto;
+  }
+
+  /* ── HEADER ── */
+  .header {
+    border: 1px solid var(--border-bright);
+    border-radius: 12px;
+    padding: 48px;
+    margin-bottom: 24px;
+    position: relative;
+    overflow: hidden;
+    background: var(--surface);
+  }
+  .header::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse 80% 60% at 70% 50%, rgba(88,166,255,0.06) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .header-grid {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 32px;
+    align-items: start;
+    position: relative;
+  }
+  .greeting {
+    font-family: 'Syne', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 12px;
+  }
+  .name {
+    font-family: 'Syne', sans-serif;
+    font-size: clamp(32px, 5vw, 52px);
+    font-weight: 800;
+    color: var(--white);
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    margin-bottom: 8px;
+  }
+  .title {
+    font-family: 'Syne', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: var(--muted);
+    margin-bottom: 20px;
+  }
+  .tagline {
+    font-size: 13px;
+    color: var(--muted);
+    max-width: 460px;
+    line-height: 1.6;
+    font-style: italic;
+  }
+  .status-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: rgba(63,185,80,0.1);
+    border: 1px solid rgba(63,185,80,0.25);
+    color: var(--accent2);
+    font-size: 11px;
+    padding: 4px 12px;
+    border-radius: 100px;
+    margin-top: 20px;
+    font-family: 'DM Mono', monospace;
+  }
+  .status-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--accent2);
+    animation: pulse 2s infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.4; }
+  }
+  .avatar-placeholder {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #1f3a5e, #0d2137);
+    border: 2px solid var(--border-bright);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Syne', sans-serif;
+    font-size: 32px;
+    font-weight: 800;
+    color: var(--accent);
+  }
+
+  /* ── BADGES ── */
+  .badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 24px;
+  }
+  .badge {
+    font-size: 11px;
+    font-family: 'DM Mono', monospace;
+    padding: 4px 10px;
+    border-radius: 6px;
+    border: 1px solid var(--border-bright);
+    color: var(--muted);
+    background: var(--bg);
+  }
+
+  /* ── SECTION HEADERS ── */
+  .section {
+    margin-bottom: 24px;
+  }
+  .section-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 16px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--border);
+  }
+  .section-num {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--accent);
+    opacity: 0.6;
+    letter-spacing: 0.1em;
+  }
+  .section-title {
+    font-family: 'Syne', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--white);
+    letter-spacing: -0.01em;
+  }
+  .section-rule {
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(to right, var(--border-bright), transparent);
+  }
+
+  /* ── CARDS ── */
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 24px;
+    transition: border-color 0.2s;
+  }
+  .card:hover { border-color: var(--border-bright); }
+
+  /* ── ABOUT ── */
+  .about-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+  .about-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    font-size: 13px;
+    color: var(--text);
+    line-height: 1.5;
+  }
+  .about-icon {
+    color: var(--accent);
+    font-size: 14px;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+
+  /* ── TECH STACK ── */
+  .stack-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+  }
+  .stack-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px;
+  }
+  .stack-label {
+    font-family: 'Syne', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .stack-label-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 2px;
+    flex-shrink: 0;
+  }
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .tag {
+    font-size: 11.5px;
+    padding: 3px 9px;
+    border-radius: 5px;
+    border: 1px solid var(--border-bright);
+    color: var(--text);
+    background: var(--bg);
+    font-family: 'DM Mono', monospace;
+  }
+
+  /* ── PROJECTS ── */
+  .project-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+  .project-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 22px;
+    position: relative;
+    overflow: hidden;
+  }
+  .project-card::after {
+    content: '';
+    position: absolute;
+    top: 0; left: 0;
+    width: 3px;
+    height: 100%;
+    border-radius: 10px 0 0 10px;
+  }
+  .project-card.blue::after { background: var(--accent); }
+  .project-card.green::after { background: var(--accent2); }
+  .project-card.yellow::after { background: var(--accent3); }
+  .project-card.red::after { background: var(--accent4); }
+  .project-title {
+    font-family: 'Syne', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--white);
+    margin-bottom: 6px;
+  }
+  .project-desc {
+    font-size: 12px;
+    color: var(--muted);
+    margin-bottom: 14px;
+    line-height: 1.6;
+  }
+  .project-stat {
+    font-size: 11px;
+    color: var(--accent2);
+    font-family: 'DM Mono', monospace;
+  }
+
+  /* ── METRICS ── */
+  .metrics {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    margin-bottom: 12px;
+  }
+  .metric-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+  }
+  .metric-val {
+    font-family: 'Syne', sans-serif;
+    font-size: 28px;
+    font-weight: 800;
+    color: var(--white);
+    line-height: 1;
+    margin-bottom: 4px;
+  }
+  .metric-val span {
+    color: var(--accent);
+  }
+  .metric-label {
+    font-size: 11px;
+    color: var(--muted);
+    font-family: 'DM Mono', monospace;
+  }
+
+  /* ── CONNECT ── */
+  .connect-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+  .connect-link {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+    color: var(--text);
+    font-size: 12px;
+    font-family: 'DM Mono', monospace;
+    transition: all 0.2s;
+  }
+  .connect-link:hover {
+    border-color: var(--border-bright);
+    color: var(--white);
+  }
+  .connect-icon {
+    font-size: 16px;
+  }
+
+  /* ── FOOTER ── */
+  .footer {
+    text-align: center;
+    padding: 32px;
+    font-size: 12px;
+    color: var(--muted);
+    font-style: italic;
+    border-top: 1px solid var(--border);
+    margin-top: 12px;
+  }
+
+  /* ── CURRENTLY ── */
+  .currently-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .currently-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    font-size: 13px;
+    color: var(--text);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 18px;
+  }
+  .currently-badge {
+    font-size: 10px;
+    padding: 2px 7px;
+    border-radius: 4px;
+    font-family: 'DM Mono', monospace;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+  .badge-blue { background: rgba(88,166,255,0.12); color: var(--accent); border: 1px solid rgba(88,166,255,0.2); }
+  .badge-green { background: rgba(63,185,80,0.12); color: var(--accent2); border: 1px solid rgba(63,185,80,0.2); }
+  .badge-yellow { background: rgba(227,179,65,0.12); color: var(--accent3); border: 1px solid rgba(227,179,65,0.2); }
+
+  @media (max-width: 640px) {
+    .header-grid, .about-grid, .stack-grid, .project-grid, .metrics, .connect-grid { grid-template-columns: 1fr; }
+    .metrics { grid-template-columns: repeat(2, 1fr); }
+    .connect-grid { grid-template-columns: repeat(2, 1fr); }
+    .avatar-placeholder { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="readme">
+
+  <!-- HEADER -->
+  <div class="header">
+    <div class="header-grid">
+      <div>
+        <div class="greeting">// Hello, World</div>
+        <h1 class="name">Ritik Kumar</h1>
+        <p class="title">Full Stack & Mobile Developer</p>
+        <p class="tagline">Transforming ideas into robust digital solutions — React, Next.js, Node.js, Expo & MongoDB specialist.</p>
+        <div class="status-pill"><span class="status-dot"></span> Open to opportunities</div>
+        <div class="badges">
+          <span class="badge">3+ years exp</span>
+          <span class="badge">50+ projects</span>
+          <span class="badge">10K+ app users</span>
+          <span class="badge">React · Node.js · Expo · MongoDB</span>
+        </div>
+      </div>
+      <div class="avatar-placeholder">RK</div>
+    </div>
+  </div>
+
+  <!-- METRICS -->
+  <div class="metrics">
+    <div class="metric-card">
+      <div class="metric-val">50<span>+</span></div>
+      <div class="metric-label">projects shipped</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-val">60<span>%</span></div>
+      <div class="metric-label">perf. improvement</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-val">10k<span>+</span></div>
+      <div class="metric-label">active users</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-val">20<span>+</span></div>
+      <div class="metric-label">open source PRs</div>
+    </div>
+  </div>
+
+  <!-- ABOUT -->
+  <div class="section">
+    <div class="section-header">
+      <span class="section-num">01</span>
+      <span class="section-title">About</span>
+      <div class="section-rule"></div>
+    </div>
+    <div class="card">
+      <div class="about-grid">
+        <div class="about-item"><span class="about-icon">→</span> Building scalable web & mobile apps with modern architectures</div>
+        <div class="about-item"><span class="about-icon">→</span> Cross-platform mobile apps with Expo & React Native</div>
+        <div class="about-item"><span class="about-icon">→</span> Integrating AI/ML capabilities into production applications</div>
+        <div class="about-item"><span class="about-icon">→</span> Cloud deployments on AWS & Firebase</div>
+        <div class="about-item"><span class="about-icon">→</span> CI/CD pipelines, testing & DevOps automation</div>
+        <div class="about-item"><span class="about-icon">→</span> Team lead for 5+ developer squads</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- TECH STACK -->
+  <div class="section">
+    <div class="section-header">
+      <span class="section-num">02</span>
+      <span class="section-title">Tech Stack</span>
+      <div class="section-rule"></div>
+    </div>
+    <div class="stack-grid">
+      <div class="stack-card">
+        <div class="stack-label" style="color: #61dafb"><span class="stack-label-dot" style="background:#61dafb"></span>Frontend</div>
+        <div class="tags">
+          <span class="tag">React</span>
+          <span class="tag">Next.js</span>
+        </div>
+      </div>
+      <div class="stack-card">
+        <div class="stack-label" style="color: #3fb950"><span class="stack-label-dot" style="background:#3fb950"></span>Backend</div>
+        <div class="tags">
+          <span class="tag">Node.js</span>
+          <span class="tag">Express</span>
+        </div>
+      </div>
+      <div class="stack-card">
+        <div class="stack-label" style="color: #e3b341"><span class="stack-label-dot" style="background:#e3b341"></span>Mobile</div>
+        <div class="tags">
+          <span class="tag">Expo</span>
+          <span class="tag">Expo Router</span>
+        </div>
+      </div>
+      <div class="stack-card">
+        <div class="stack-label" style="color: #ff7b72"><span class="stack-label-dot" style="background:#ff7b72"></span>Database & Cloud</div>
+        <div class="tags">
+          <span class="tag">MongoDB</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- PROJECTS -->
+  <div class="section">
+    <div class="section-header">
+      <span class="section-num">03</span>
+      <span class="section-title">Featured Projects</span>
+      <div class="section-rule"></div>
+    </div>
+    <div class="project-grid">
+      <div class="project-card blue">
+        <div class="project-title">E-Commerce Platform</div>
+        <div class="project-desc">Real-time inventory management with AI-powered product recommendations and Stripe integration.</div>
+        <div class="tags" style="margin-bottom: 12px">
+          <span class="tag">React</span><span class="tag">Node.js</span><span class="tag">MongoDB</span><span class="tag">Stripe</span>
+        </div>
+        <div class="project-stat">↑ 40% conversion rate · 5K+ daily users</div>
+      </div>
+      <div class="project-card green">
+        <div class="project-title">Healthcare Management</div>
+        <div class="project-desc">HIPAA-compliant patient portal with appointment scheduling and real-time doctor–patient communication.</div>
+        <div class="tags" style="margin-bottom: 12px">
+          <span class="tag">Next.js</span><span class="tag">TypeScript</span><span class="tag">PostgreSQL</span>
+        </div>
+        <div class="project-stat">↓ 30% wait time reduction</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CURRENTLY -->
+  <div class="section">
+    <div class="section-header">
+      <span class="section-num">04</span>
+      <span class="section-title">Currently</span>
+      <div class="section-rule"></div>
+    </div>
+    <div class="currently-list">
+      <div class="currently-item">
+        <span class="currently-badge badge-blue">building</span>
+        Next.js 14 App Router + Server Components for enterprise-scale applications
+      </div>
+      <div class="currently-item">
+        <span class="currently-badge badge-blue">building</span>
+        AI-powered features with OpenAI API, Langchain & TensorFlow.js
+      </div>
+      <div class="currently-item">
+        <span class="currently-badge badge-green">learning</span>
+        Web3 & Solidity — smart contract development
+      </div>
+      <div class="currently-item">
+        <span class="currently-badge badge-yellow">open to</span>
+        Innovative startups · open-source collaboration · mentoring
+      </div>
+    </div>
+  </div>
+
+  <!-- CONNECT -->
+  <div class="section">
+    <div class="section-header">
+      <span class="section-num">05</span>
+      <span class="section-title">Connect</span>
+      <div class="section-rule"></div>
+    </div>
+    <div class="connect-grid">
+      <a class="connect-link" href="/cdn-cgi/l/email-protection#3d4f544954565648505c4f0f050f087d5a505c5451135e5250">
+        <span class="connect-icon">✉</span> <span class="__cf_email__" data-cfemail="d6a4bfa2bfbdbda3bbb7a4e4eee4e396b1bbb7bfbaf8b5b9bb">[email&#160;protected]</span>
+      </a>
+      <a class="connect-link" href="https://github.com/mrroy01-bit">
+        <span class="connect-icon">⌥</span> github/mrroy01-bit
+      </a>
+      <a class="connect-link" href="https://linkedin.com/in/ritik-kumar-roy0211">
+        <span class="connect-icon">↗</span> linkedin/ritik-kumar-roy0211
+      </a>
+    </div>
+  </div>
+
+  <div c
