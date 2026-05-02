@@ -95,7 +95,7 @@
 ## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrroy01-bit&layout=compact&theme=github_dark&bg_color=0f172a&title_color=5eead4&text_color=e2e8f0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrroy01-bit&layout=compact&langs_count=8&hide_border=true&bg_color=0f172a&title_color=5eead4&text_color=e2e8f0" />
 </p>
 
 ---
@@ -103,7 +103,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrroy01-bit/mrroy01-bit/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/mrroy01-bit/mrroy01-bit/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
